@@ -424,6 +424,6 @@
 **Students**
 
 - Salem Alhajri @SMbinSalem SalemSaleemah@gmail.com
+- Salt 🧂🧂
 - Ali Altabtabae @ali.r.altabtabae@gmail.com
 - Laila Alhaddad @lailaalhaddad lalhaddad95@gmail.com
-
