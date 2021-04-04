@@ -423,6 +423,7 @@
 
 **Students**
 
+- Adel Baroody @Gunpowderman adel.baroody@gmail.com
 - Salem Alhajri @SMbinSalem SalemSaleemah@gmail.com
 - Salt 🧂🧂
 - Ali Altabtabae @ali.r.altabtabae@gmail.com
