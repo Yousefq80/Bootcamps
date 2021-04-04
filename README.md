@@ -422,3 +422,5 @@
 - Abdulghaphor Hajjieh @abdulghaphor ghaphorhajjieh@gmail.com
 
 **Students**
+
+- Maryam Jasem AlOmar @alomaryam @alomaryan@gmail.com
