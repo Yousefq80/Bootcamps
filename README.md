@@ -415,7 +415,7 @@
 - Abdullah Almeshekah @almeshekah aalmeshekah@gmail.com
 - Shadi Ali Ahmed @Shadi497 b.shadi.h@gmail.com
 
-## Full Stack - Spring 2023
+## Full Stack - Spring 2021
 
 **Instructors**
 
@@ -423,4 +423,8 @@
 
 **Students**
 
--Adel Baroody @Gunpowderman adel.baroody@gmail.com
+- Adel Baroody @Gunpowderman adel.baroody@gmail.com
+- Salem Alhajri @SMbinSalem SalemSaleemah@gmail.com
+- Salt 🧂🧂
+- Ali Altabtabae @ali.r.altabtabae@gmail.com
+- Laila Alhaddad @lailaalhaddad lalhaddad95@gmail.com
