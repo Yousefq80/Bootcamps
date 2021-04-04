@@ -423,4 +423,4 @@
 
 **Students**
 
-- Maryam Jasem AlOmar @alomaryam @alomaryan@gmail.com
+- Maryam Jasem AlOmar @alomaryam alomaryam@gmail.com
