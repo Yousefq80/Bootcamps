@@ -297,7 +297,7 @@
 - Hani Hamshari @NeroBeats Hani.Hamshari@hotmail.com
 - Tala Agha @Tala-Agha tala.agha996@gmail.com
 - Hammam Mohsen Besaiso @hammam1311 h.besaiso95@gmail.com
-- Hani Neiroukh @Sparksys hanineiroukh@gmail.com
+- Hani Neiroukh @Sparksys98 hanineiroukh@gmail.com
 - Sara Taiseer @SaraTaiseer sarataiseer97@gmail.com
 - Mohammad Rahmeh @moe9195 moerahmeh95@hotmail.com
 - Osama Sider @osamaMKS osamamksider@hotmail.com
