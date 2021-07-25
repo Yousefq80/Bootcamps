@@ -446,8 +446,6 @@ iyas al-owaneh
 
 Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 Omar Alhawamdeh @omar.alhawamdeh@gmail.com
-
-
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
 - Ahmad AbuDaoud @ahmadabudaoud ahmadabudaoud@gmail.com
@@ -457,6 +455,7 @@ Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
+- Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
 - Aya Abdelqader @ayoya_1998@hotmail.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omar.alhawamdeh@gmail.com
