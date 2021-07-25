@@ -437,3 +437,4 @@
 - Ahmed AlKhunaizi @aakhunaizi aakhunaizi@gmail.com
 
 **Students**
+Omar Alhawamdeh @omar.alhawamdeh@gmail.com
