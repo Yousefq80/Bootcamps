@@ -438,10 +438,6 @@
 
 **Students**
 
-Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
-
-
-- abdullah bader abdallah.b.b96@gmail.com
 - Amjad Almohtaseb @Amjad-Almohtaseb amjad.almohtaseb94@gmail.com
 - Aya Abdelqader @ayoya_1998@hotmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
@@ -451,6 +447,11 @@ Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omaralhawamdeh97 omar.alhawamdeh@gmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
+- Aya Abdelqader @ayoya_1998@hotmail.com
+- Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
+- Omar Alhawamdeh @omar.alhawamdeh@gmail.com
+- Basel Abu Tarboush @basel1996-96  baselabu4111@gmail.com
+- Mohammad H @mirrorcall96
 - Yanal Shmilan @YanalShmilan
 - Mohammad H @mirrorcall96
 - Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
@@ -459,4 +460,3 @@ Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
 - Hayder Abdulsahib @hayder.sahib96@gmail.com
 - Dina Isbaih @Dinaisbaih isbaihdina.f@outlook.com
-
