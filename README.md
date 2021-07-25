@@ -460,9 +460,9 @@ Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Aya Abdelqader @ayoya_1998@hotmail.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omar.alhawamdeh@gmail.com
-- Basel Abu Tarboush @baselabu4111@gmail.com
+- Basel Abu Tarboush @basel1996-96  baselabu4111@gmail.com
 - Yanal Shmilan @YanalShmilan
 - Mohammad H @mirrorcall96
-- Basel Abu Tarboush @baselabu4111@gmail.com
+
 
 
