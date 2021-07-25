@@ -451,7 +451,7 @@ Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Yanal Shmilan
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
-
+- Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
 
 - Aya Abdelqader @ayoya_1998@hotmail.com
 - iyas al-owaneh
