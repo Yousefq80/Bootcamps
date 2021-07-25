@@ -433,4 +433,6 @@
 
 **Instructors**
 
+- Ahmed AlKhunaizi @aakhunaizi aakhunaizi@gmail.com
+
 **Students**
