@@ -453,7 +453,7 @@ Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Ahmad AbuDaoud @ahmadabudaoud ahmadabudaoud@gmail.com
 - zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
 
-- Aya Abdelqader @ayoya_1998@hotmail.com
+- Aya Abdelqader @Ayah-AQ ayoya_1998@hotmail.com
 - iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omar.alhawamdeh@gmail.com
