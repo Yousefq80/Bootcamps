@@ -433,6 +433,6 @@
 
 **Instructors**
 
-- Laila Al-Kandery @lailz laila.a@joincoded.com
+- Laila AlKandery @lailz laila.a@joincoded.com
 
 **Students**
