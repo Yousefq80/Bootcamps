@@ -434,5 +434,6 @@
 **Instructors**
 
 - Laila AlKandery @lailz laila.a@joincoded.com
+- Ahmed AlKhunaizi @aakhunaizi aakhunaizi@gmail.com
 
 **Students**
