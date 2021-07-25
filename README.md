@@ -437,40 +437,23 @@
 - Ahmed AlKhunaizi @aakhunaizi aakhunaizi@gmail.com
 
 **Students**
-
-
-- iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
-
-Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
-Omar Alhawamdeh @omar.alhawamdeh@gmail.com
-
-
- 
-- Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
-- Ali Safi @aliigraibe aliigraibe93@gmail.com
-- Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
-- Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
-- Ahmad AbuDaoud @ahmadabudaoud ahmadabudaoud@gmail.com
-- zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
-
-- Aya Abdelqader @Ayah-AQ ayoya_1998@hotmail.com
-- iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
+- Amjad Almohtaseb @Amjad-Almohtaseb amjad.almohtaseb94@gmail.com
+- Aya Abdelqader @ayoya_1998@hotmail.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
-- Omar Alhawamdeh @omar.alhawamdeh@gmail.com
-- Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
-- Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
-- Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
-- Omar Alhawamdeh @omaralhawamdeh97 omar.alhawamdeh@gmail.com
 - Basel Abu Tarboush @baselabu4111@gmail.com
+- zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
+- Omar Alhawamdeh @omaralhawamdeh97 omar.alhawamdeh@gmail.com
+- iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
+- Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
+- Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
 - Yanal Shmilan @YanalShmilan
 - Mohammad H @mirrorcall96
-
-- Basel Abu Tarboush @baselabu4111@gmail.com
+- Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
+- Ali Safi @aliigraibe aliigraibe93@gmail.com
+- Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
+- Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
 - Hayder Abdulsahib @hayder.sahib96@gmail.com
-
 - Dina Isbaih @Dinaisbaih isbaihdina.f@outlook.com
-
- 
 
 
 
