@@ -438,20 +438,22 @@
 
 **Students**
 
+
+
+- Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
 - Amjad Almohtaseb @Amjad-Almohtaseb amjad.almohtaseb94@gmail.com
-- Aya Abdelqader @ayoya_1998@hotmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
-- Basel Abu Tarboush @baselabu4111@gmail.com
 - Yousef Oshrok Laban @yousef-laban yousef.labn@gmail.com
 - zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
+- Aya Abdelqader @Ayah-AQ ayoya_1998@hotmail.com
+- iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
+- Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omaralhawamdeh97 omar.alhawamdeh@gmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
-- Aya Abdelqader @ayoya_1998@hotmail.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 - Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Basel Abu Tarboush @basel1996-96  baselabu4111@gmail.com
-- Mohammad H @mirrorcall96
 - Yanal Shmilan @YanalShmilan
 - Mohammad H @mirrorcall96
 - Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
