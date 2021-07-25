@@ -437,6 +437,11 @@
 - Ahmed AlKhunaizi @aakhunaizi aakhunaizi@gmail.com
 
 **Students**
+
+Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
+
+
+- abdullah bader abdallah.b.b96@gmail.com
 - Amjad Almohtaseb @Amjad-Almohtaseb amjad.almohtaseb94@gmail.com
 - Aya Abdelqader @ayoya_1998@hotmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
