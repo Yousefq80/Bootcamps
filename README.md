@@ -439,12 +439,13 @@
 **Students**
 - iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
 
-
-
-
-
+zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
 Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
 Omar Alhawamdeh @omar.alhawamdeh@gmail.com
+
+
+- Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
+- Yanal Shmilan
 
 
 - Aya Abdelqader @ayoya_1998@hotmail.com
@@ -457,3 +458,4 @@ Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Yanal Shmilan @YanalShmilan
 - Mohammad H @mirrorcall96
 - Basel Abu Tarboush @baselabu4111@gmail.com
+
