@@ -440,19 +440,14 @@
 
 
 - iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
-
-Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
-Omar Alhawamdeh @omar.alhawamdeh@gmail.com
-
-
- 
+-Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
+-Omar Alhawamdeh @omar.alhawamdeh@gmail.com
 - Aya Alhusamia @aya-alhusamia alhusamiaya70@gmail.com
 - Ali Safi @aliigraibe aliigraibe93@gmail.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
 - Ahmad AbuDaoud @ahmadabudaoud ahmadabudaoud@gmail.com
 - zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
-
 - Aya Abdelqader @Ayah-AQ ayoya_1998@hotmail.com
 - iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
 - Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
