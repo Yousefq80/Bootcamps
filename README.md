@@ -460,5 +460,5 @@
 - Ali Safi @aliigraibe aliigraibe93@gmail.com
 - Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
-- Hayder Abdulsahib @hayder.sahib96@gmail.com
+- Hayder Abdulsahib @hayder.sahib@gmail.com @hyader_sahib@outlook.com
 - Dina Isbaih @Dinaisbaih isbaihdina.f@outlook.com
