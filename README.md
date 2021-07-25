@@ -439,11 +439,11 @@
 **Students**
 - Amjad Almohtaseb @Amjad-Almohtaseb amjad.almohtaseb94@gmail.com
 - Aya Abdelqader @ayoya_1998@hotmail.com
-- Ahmad Abu Awad @Ahmad1431997 ahmadabuawed@gmail.com
+- Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Basel Abu Tarboush @baselabu4111@gmail.com
+- Yousef Oshrok Laban @yousef-laban yousef.labn@gmail.com
 - zied jalajel @ziedjalajel zied.jalajel1993@gmail.com
 - Omar Alhawamdeh @omaralhawamdeh97 omar.alhawamdeh@gmail.com
-- iyas al-owaneh @iyasalowaneh iyas_moh@yahoo.com
 - Ibraheem Shaheen @IbraShaheen engibraheem1995@gmail.com
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
 - Yanal Shmilan @YanalShmilan
@@ -454,6 +454,4 @@
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
 - Hayder Abdulsahib @hayder.sahib96@gmail.com
 - Dina Isbaih @Dinaisbaih isbaihdina.f@outlook.com
-
-
 
