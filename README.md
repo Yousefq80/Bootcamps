@@ -423,6 +423,7 @@
 
 **Students**
 
+- Sally Saleh @codesals sally.s.saleh@gmail.com
 - Mohamed Sameh
 - Abrar Al-Shammari @abraralshammari abrar.oalshammari@gmail.com
 - Nourah ALsuwaileh @nouraalsuwaileh nourahalsuwaileh@gmail.com
