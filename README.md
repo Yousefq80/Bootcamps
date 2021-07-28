@@ -469,7 +469,7 @@
 
 **Students**
 
-- Mona Abusharkh @mona187 @monaabusharkh18@gmail.com
+- Mona Abusharkh @mona187 monaabusharkh18@gmail.com
 - Sayed Mahmood Almohri @mahmood114 mahmoodalmohri@gmail.com
 - Athari Rashed @AthariCoded atharashed@gmail.com
 - Ayah Ashkanani @AyahAshkanani Ayah.ash62@gmail.com
@@ -479,4 +479,3 @@
 - Saleh AlQattan @SalehAlQattan SalehAlQattan@outlook.com
 - Mohammad ALEnezi @mohalenezi OT.M.Alenezi@gmail.com
 - Imran Yassin brickrends9@gmail.com
-
