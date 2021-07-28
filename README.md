@@ -423,6 +423,7 @@
 
 **Students**
 
+- Khaled Alhamdan @Khaled-Alhamdan Khaled-al7amdan@hotmail.com
 - Maryam Jasem AlOmar @alomaryam alomaryam@gmail.com
 - Haya Al-Mudahka @halmodahka h_almodahka@icloud.com
 - Abdulrahman Maghrabi @amaghrabi7 abdul.maghrabi@gmail.com
@@ -493,5 +494,4 @@
 - Alaa AlHumaidan @alaalhumaidan alaalhumaidan@gmail.com
 - Maha Almutairi @mmnalmutairi eng.mmn609@icloud.com
 - Meshari Aldoukhi @mdaldoukhi mashry151@hotmail.com
-
 
