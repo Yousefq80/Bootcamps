@@ -459,6 +459,6 @@
 
 ## Full Stack - Summer 2021
 
-**Isntructros**
+**Instructors**
 
 **Students**
