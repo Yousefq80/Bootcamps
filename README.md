@@ -463,8 +463,12 @@
 
 - Mshary AlSharekh @TheMshary mshary@joincoded.com
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
+- Taiba AlThunayan @Talthunayan Talthunayan@outlook.com
+- Athbi Hameidawi @Athbi90 athbi90@gmail.com
+- Abdulghaphor Hajjieh ghaphorhajjieh@gmail.com
 
 **Students**
+
 - Mona Abusharkh @mona187 @monaabusharkh18@gmail.com
 - Sayed Mahmood Almohri @mahmood114 mahmoodalmohri@gmail.com
 - Athari Rashed @AthariCoded atharashed@gmail.com
