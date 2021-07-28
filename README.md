@@ -470,7 +470,7 @@
 **Students**
 
 - Ali Behbahani @AliBehbahani dr.ali.behbahani18@gmail.com
-- Mona Abusharkh @mona187 @monaabusharkh18@gmail.com
+- Mona Abusharkh @mona187 monaabusharkh18@gmail.com
 - Ayah Ashkanani @AyahAshkanani Ayah.ash62@gmail.com
 - Sayed Mahmood Almohri @mahmood114 mahmoodalmohri@gmail.com
 - Athari Rashed @AthariCoded atharashed@gmail.com
@@ -482,3 +482,4 @@
 - Imran Yassin brickrends9@gmail.com
 - Alaa AlHumaidan @alaalhumaidan alaalhumaidan@gmail.com
 - Maha Almutairi @mmnalmutairi eng.mmn609@icloud.com.
+
