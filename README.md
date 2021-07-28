@@ -465,7 +465,7 @@
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
 - Taiba AlThunayan @Talthunayan Talthunayan@outlook.com
 - Athbi Hameidawi @Athbi90 athbi90@gmail.com
-- Abdulghaphor Hajjieh ghaphorhajjieh@gmail.com
+- Abdulghaphor Hajjieh @abdulghaphor ghaphorhajjieh@gmail.com
 
 **Students**
 
