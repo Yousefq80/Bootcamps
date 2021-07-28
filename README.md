@@ -465,3 +465,5 @@
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
+
+- Athari Rashed @AthariCoded atharashed@gmail.com
