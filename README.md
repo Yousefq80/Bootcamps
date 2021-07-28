@@ -461,4 +461,6 @@
 
 **Instructors**
 
+- Mshary AlSharekh @TheMshary mshary@joincoded.com
+
 **Students**
