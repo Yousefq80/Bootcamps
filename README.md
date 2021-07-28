@@ -462,5 +462,6 @@
 **Instructors**
 
 - Mshary AlSharekh @TheMshary mshary@joincoded.com
+- Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
