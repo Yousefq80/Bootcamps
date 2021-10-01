@@ -463,7 +463,7 @@
 - Esraa Al-Malkawi @esraamalkawi esraamalkawi462@gmail.com
 - Basel Abu Tarboush @basel1996-96 baselabu4111@gmail.com
 - Yanal Shmilan @YanalShmilan
-- Mohammad H @mirrorcall96
+- Mohammad Majed @mirrorcall96
 - Ali Safi @aliigraibe aliigraibe93@gmail.com
 - Wafaa Abdallah @WafaaAbdallah Wafaa.azzam17@gmail.com
 - Ismail alomari @IsmaelAlomari ismaelalomari994@gmail.com
