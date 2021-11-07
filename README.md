@@ -510,8 +510,6 @@
 
 **Students**
 
-=======
-
 - Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
 - Zainab Al-Hussaini @DayDreamerKitty @zainab_97@hotmail.co.uk
 - Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
@@ -522,6 +520,7 @@
 - Ahmad Alaskar @aealaskar aealaskar@gmail.com
 - Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
 - Hussain AlHadad @HussainQH hussainqh@gmail.com
+- Amnah AL-Duhaileb @amnah5 amooon_96@hotmail.com
 -Abdullah Al Adwani @abdullahmmaladwani@gmail.com
 - Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
 - Shahad Al Mashan @salmashaan smalmashaan@gmail.com
@@ -532,5 +531,4 @@
 - Ali Abdulkarim @AliAbdulkarimov94 alikenbo@gmail.com
 - Bandar Almutairi @Alshalahi93 Alshalahi93@outlook.com
 - Nawaf Aldakhil @Botashaa m3an@hotmail.com
-
 
