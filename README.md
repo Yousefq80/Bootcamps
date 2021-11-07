@@ -519,6 +519,6 @@
 - Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
 - Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
 - Hussain AlHadad @HussainQH hussainqh@gmail.com
-  -Abdullah Al Adwani @abdullahmmaladwani@gmail.com
+-Abdullah Al Adwani @abdullahmmaladwani@gmail.com
 
 -Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
