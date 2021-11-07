@@ -509,4 +509,4 @@
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
-Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
