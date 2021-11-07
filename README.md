@@ -510,4 +510,5 @@
 - - Omar Alibrahim @omsi96 omar@joincoded.com
 
 **Students**
-Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+
+Hussain AlHadad @HussainQH hussainqh@gmail.com
