@@ -507,8 +507,16 @@
 - Aziz Alsaffar @octowl aziz@joincoded.com
 - Zainab is here!
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
-- - Omar Alibrahim @omsi96 omar@joincoded.com
+- Omar Alibrahim @omsi96 omar@joincoded.com
 
 **Students**
 
-Hussain AlHadad @HussainQH hussainqh@gmail.com
+- Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Fahad Osama AlDuaij @FahadAlduaij @fahad_osama@hotmail.com
+- Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Faisal Hashim @faisalaqua @fsl.lry@gmail.com
+- Fahad Al-Khaldi @FAHADKHALDI fahadalkhaldi96@gmail.com
+- Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
+- Hussain AlHadad @HussainQH hussainqh@gmail.com
+
