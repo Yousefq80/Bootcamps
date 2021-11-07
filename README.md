@@ -510,8 +510,12 @@
 - Omar Alibrahim @omsi96 omar@joincoded.com
 
 **Students**
-Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
-Faisal Hashim @faisalaqua @fsl.lry@gmail.com
+
+Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Fahad Osama AlDuaij @FahadAlduaij @fahad_osama@hotmail.com
+
+- Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Faisal Hashim @faisalaqua @fsl.lry@gmail.com
 - Fahad Al-Khaldi @FAHADKHALDI fahadalkhaldi96@gmail.com
 - Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
 
