@@ -502,4 +502,6 @@
 
 **Instructors**
 
+- Moudhi Albannai @malbannai moudhi.albannai@gmail.com
+
 **Students**
