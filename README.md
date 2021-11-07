@@ -504,5 +504,7 @@
 
 - Laila AlKandery @lailz laila.a@joincoded.com
 - Moudhi Albannai @malbannai moudhi.albannai@gmail.com
+- Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
+
