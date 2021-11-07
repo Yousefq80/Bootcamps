@@ -511,7 +511,7 @@
 **Students**
 
 - Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
-- Deema burhama @engdeema eng.dburhama@gmail.com
+- Deema Burhama @engdeema eng.dburhama@gmail.com
 - Fahad Osama AlDuaij @FahadAlduaij @fahad_osama@hotmail.com
 - Faisal Hashim @faisalaqua @fsl.lry@gmail.com
 - Fahad Al-Khaldi @FAHADKHALDI fahadalkhaldi96@gmail.com
