@@ -509,3 +509,5 @@
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
+
+- Fahad Al-Khaldi @FAHADKHALDI fahadalkhaldi96@gmail.com
