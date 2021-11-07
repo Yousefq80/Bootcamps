@@ -509,18 +509,16 @@
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
-- deema burhama @engdeema eng.dburhama@gmail.com
+
 - Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
+- Deema Burhama @engdeema eng.dburhama@gmail.com
 - Fahad Osama AlDuaij @FahadAlduaij @fahad_osama@hotmail.com
-- Yousef Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
 - Faisal Hashim @faisalaqua @fsl.lry@gmail.com
 - Fahad Al-Khaldi @FAHADKHALDI fahadalkhaldi96@gmail.com
-- Yousef Abdulwahab Al-Kandari @Alkandari-Y @yayalkandari@gmail.com
 - Ahmad Alaskar @aealaskar aealaskar@gmail.com
 - Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
 - Hussain AlHadad @HussainQH hussainqh@gmail.com
 - Shahad Al Mashan @salmashaan smalmashaan@gmail.com
 - Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
 - Ghadah Bu Dhhair @Ghadahb ghada.dxb@gmail.com
-
 
