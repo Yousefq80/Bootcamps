@@ -523,11 +523,14 @@
 - Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
 - Hussain AlHadad @HussainQH hussainqh@gmail.com
 -Abdullah Al Adwani @abdullahmmaladwani@gmail.com
--Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
+- Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
 - Shahad Al Mashan @salmashaan smalmashaan@gmail.com
 - Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
 - Ghadah Bu Dhhair @Ghadahb ghada.dxb@gmail.com
 - Salim Al-Ateeqi Salim-Al-Ateeqi @Salim.Al.Ateeqi1@gmail.com
+- Nawaf Aldakhil @Botashaa m3an@hotmail.com
+- Ali Abdulkarim @AliAbdulkarimov94 alikenbo@gmail.com
 - Bandar Almutairi @Alshalahi93 Alshalahi93@outlook.com
 - Nawaf Aldakhil @Botashaa m3an@hotmail.com
+
 
