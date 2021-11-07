@@ -503,5 +503,6 @@
 **Instructors**
 
 - Laila AlKandery @lailz laila.a@joincoded.com
+- Moudhi Albannai @malbannai moudhi.albannai@gmail.com
 
 **Students**
