@@ -533,7 +533,7 @@
 - Nawaf Aldakhil @Botashaa m3an@hotmail.com
 - Ashwaq Almutairi @AshwaqMutairi ashkhmu@gmail.com
 
-## AJYAL-Tech Bootcamp
+## AJYAL-Tech Bootcamp 2021
 
 **Instructors**
 - Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
