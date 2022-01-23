@@ -532,3 +532,10 @@
 - Bandar Almutairi @Alshalahi93 Alshalahi93@outlook.com
 - Nawaf Aldakhil @Botashaa m3an@hotmail.com
 - Ashwaq Almutairi @AshwaqMutairi ashkhmu@gmail.com
+
+
+## Instructors :
+- Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
+- Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
+
+## Students
