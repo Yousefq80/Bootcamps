@@ -547,3 +547,4 @@
 - Mohammad Al-Hamdan -@m7mdal7mdan -mohammadalhamdan94@gmail.com
 - Taher Naqi -@TaherNaqi - Eng-naqi@hotmail.com
 - Bader Mohsen - @Statcomm - bader.an.mohsen@gmail.com
+- Hamed AlNouri - @ripleyhyde - jackalnouri@gmail.com
