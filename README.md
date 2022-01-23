@@ -547,4 +547,6 @@
 - Abdulaziz Alfarhan - @a1000rhan - 1000rhan@gmail.com
 - Mohammad Al-Hamdan -@m7mdal7mdan -mohammadalhamdan94@gmail.com
 - Taher Naqi -@TaherNaqi - Eng-naqi@hotmail.com
+- Zainab AlSairafi -@zeesairafi -alsairafizainab19@gmail.com
 - Bader Mohsen - @Statcomm - bader.an.mohsen@gmail.com
+- Hamed AlNouri - @ripleyhyde - jackalnouri@gmail.com
