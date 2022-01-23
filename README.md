@@ -541,9 +541,11 @@
 - Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
 
 **Students**
-- Abdulrahman Al-Kandari  - @AAlkandari - Kanderi_94@hotmail.com
+
+- Fahad AlJuwaihel - @feheed - Fmjuwaihel@gmail.com
+- Abdulrahman Al-Kandari - @AAlkandari - Kanderi_94@hotmail.com
 - Fatma Kamshad = @FATMAKAMSHAD90 - FATMAKAMSHAD90@gmail.com
-- Ahmed Dashti - @cupld  -  cupld@hotmail.com
+- Ahmed Dashti - @cupld - cupld@hotmail.com
 - Abdulaziz Alfarhan - @a1000rhan - 1000rhan@gmail.com
 - Mohammad Al-Hamdan -@m7mdal7mdan -mohammadalhamdan94@gmail.com
 - Taher Naqi -@TaherNaqi - Eng-naqi@hotmail.com
