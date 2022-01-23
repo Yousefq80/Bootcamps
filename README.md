@@ -68,7 +68,7 @@
 **Instructors:**
 
 - Aziz Alsaffar @octowl aziz@joincoded.com
-- Laila Alkandery - 来来　@Lailz lailaabdulraheem@gmail.com
+- Laila Alkandery - @Lailz lailaabdulraheem@gmail.com
 
 **Students:**
 
@@ -543,5 +543,6 @@
 **Students**
 
 - Abdulrahman Al-Kandari - @AAlkandari - Kanderi_94@hotmail.com
-- Abdulaziz Alfarhan - @a1000rhan - 1000rhan@gmail.com
 - Fatma Kamshad = @FATMAKAMSHAD90 - FATMAKAMSHAD90@gmail.com
+- Abdulaziz Alfarhan - @a1000rhan - 1000rhan@gmail.com
+- Taher Naqi -@TaherNaqi - Eng-naqi@hotmail.com
