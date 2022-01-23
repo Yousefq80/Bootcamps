@@ -533,10 +533,11 @@
 - Nawaf Aldakhil @Botashaa m3an@hotmail.com
 - Ashwaq Almutairi @AshwaqMutairi ashkhmu@gmail.com
 
+## AJYAL-Tech Bootcamp
 
-## Instructors :
+**Instructors**
 - Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
 - Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
 
-## Students
+**Students**
 - Abdulrahman Al-Kandari  - @AAlkandari - Kanderi_94@hotmail.com
