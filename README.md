@@ -68,7 +68,7 @@
 **Instructors:**
 
 - Aziz Alsaffar @octowl aziz@joincoded.com
-- Laila Alkandery - 来来　@Lailz lailaabdulraheem@gmail.com
+- Laila Alkandery - @Lailz lailaabdulraheem@gmail.com
 
 **Students:**
 
@@ -536,11 +536,15 @@
 ## AJYAL-Tech Bootcamp 2021
 
 **Instructors**
+
 - Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
 - Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
 
 **Students**
-- Abdulrahman Al-Kandari  - @AAlkandari - Kanderi_94@hotmail.com
-- Abdulaziz Alfarhan  - @a1000rhan  - 1000rhan@gmail.com
+
+- Abdulrahman Al-Kandari - @AAlkandari - Kanderi_94@hotmail.com
+- Fatma Kamshad = @FATMAKAMSHAD90 - FATMAKAMSHAD90@gmail.com
 - Ahmed Dashti - @cupld  -  cupld@hotmail.com
+- Abdulaziz Alfarhan - @a1000rhan - 1000rhan@gmail.com
+- Mohammad Al-Hamdan -@m7mdal7mdan -mohammadalhamdan94@gmail.com
 - Taher Naqi -@TaherNaqi - Eng-naqi@hotmail.com
