@@ -558,5 +558,6 @@
 **Instructors**
 
 - Mohammad Althunayan - @malthunayan malthunayan4@gmail.com
+- Salwa Baqer - @SalwaBaqer - salwa@joincoded.com
 
 **Students**
