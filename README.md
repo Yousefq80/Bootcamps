@@ -557,4 +557,6 @@
 
 **Instructors**
 
+- Mohammad Althunayan - @malthunayan malthunayan4@gmail.com
+
 **Students**
