@@ -559,5 +559,6 @@
 
 - Mohammad Althunayan - @malthunayan malthunayan4@gmail.com
 - Salwa Baqer - @SalwaBaqer - salwa@joincoded.com
+- Batool - @batool - batool@gmail.com
 
 **Students**
