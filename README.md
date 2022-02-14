@@ -557,7 +557,4 @@
 
 **Instructors**
 
-- Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
-- Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
-
 **Students**
