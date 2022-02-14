@@ -554,3 +554,10 @@
 - Hamed AlNouri - @ripleyhyde - jackalnouri@gmail.com
 
 ## Full-Stack Spring Bootcamp 2022
+
+**Instructors**
+
+- Zainab Albagsami - @ZainabBaq Zainab@joincoded.com
+- Zahraa BaharAluloom - @ZhraaBaharAluloom zahraa@joincoded.com
+
+**Students**
