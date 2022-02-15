@@ -565,4 +565,4 @@
 **Students**
 
 - new Student
-- Abdullah AlKhareji - @alkhareji\_ - aalkhareji27@gmail.com
+- Abdullah AlKhareji - @abdullah-alkhareji - aalkhareji27@gmail.com
