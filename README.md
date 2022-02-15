@@ -1,7 +1,5 @@
 # Bootcamps
 
-- Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
-
 ## National Fund
 
 **Instructors:**
@@ -23,7 +21,10 @@
 
 **Students:**
 
-- Abdullah alrashed @abdullah
+<<<<<<< HEAD
+
+- # Abdullah alrashed @abdullah
+  > > > > > > > origin/master
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -568,6 +569,13 @@
 
 **Students**
 
+- new Student
+- AbdulAziz Al-Ghanim - @azizmg98 - azizalghanim98@gmail.com
+- Anas AlJobbeh - @AnasAlJubah - anas.aljubah@outlook.com
+- Duaa Alkandari - @DuaaAlk - engduaa2013@gmail.com
+- Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
+- Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
+- Tahreer Alenezi - @Tahreer90 - tahreer.90z@gmail.com
 - Mohammad Alansari @mkalansari7 mk.alansari7@gmail.com
 - Abdullah AlKhareji - @abdullah-alkhareji - aalkhareji27@gmail.com
 - Ahmad Albaqsami - @atinzad - ahmad_baq@hotmail.com
@@ -575,3 +583,6 @@
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
 - Saad Alkandari - @SaadAlkandari - mr.s.alkandari@gmail.com
+- Abdullah alrashed @abdullah
+- Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
+- Hassan Mohammed - @HassanMohammed98 - hassan-n98@hotmail.com
