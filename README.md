@@ -1,6 +1,5 @@
 # Bootcamps
 
-- Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
 
 ## National Fund
 
@@ -579,3 +578,4 @@
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
 - Abdullah alrashed @abdullah
+- Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
