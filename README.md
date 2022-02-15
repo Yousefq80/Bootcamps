@@ -21,6 +21,10 @@
 
 **Students:**
 
+<<<<<<< HEAD
+
+- # Abdullah alrashed @abdullah
+  > > > > > > > origin/master
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -578,6 +582,7 @@
 - Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
+- Saad Alkandari - @SaadAlkandari - mr.s.alkandari@gmail.com
 - Abdullah alrashed @abdullah
 - Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
 - Hassan Mohammed - @HassanMohammed98 - hassan-n98@hotmail.com
