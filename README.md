@@ -566,6 +566,8 @@
 
 **Students**
 
+- Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
+
 
