@@ -22,6 +22,7 @@
 - Mshary AlSharekh @sentient64 m.alsharekh94@gmail.com
 
 **Students:**
+
 - Abdullah alrashed @abdullah
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
@@ -567,6 +568,7 @@
 
 **Students**
 
+- Duaa Alkandari - @DuaaAlk - engduaa2013@gmail.com
 - Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
 - Tahreer Alenezi-@Tahreer90-tahreer.90z@gmail.com
 - Mohammad Alansari @mkalansari7 mk.alansari7@gmail.com
@@ -575,4 +577,3 @@
 - Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
-
