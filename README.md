@@ -22,7 +22,7 @@
 - Mshary AlSharekh @sentient64 m.alsharekh94@gmail.com
 
 **Students:**
-
+- Abdullah alrashed @abdullah
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
