@@ -565,3 +565,4 @@
 **Students**
 
 - new Student
+- Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
