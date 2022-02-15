@@ -565,3 +565,4 @@
 **Students**
 
 - new Student
+- AbdulAziz Al-Ghanim - @azizmg98 - azizalghanim98@gmail.com
