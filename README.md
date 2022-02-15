@@ -22,11 +22,6 @@
 - Mshary AlSharekh @sentient64 m.alsharekh94@gmail.com
 
 **Students:**
-
-- # Abdullah alrashed @abdullah
-
-  > > > > > > > 15a380a81e8df10b39c9dbf0da9bcf1d9e599946
-
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
