@@ -22,7 +22,6 @@
 - Mshary AlSharekh @sentient64 m.alsharekh94@gmail.com
 
 **Students:**
-- Abdullah alrashed @abdullah
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -567,13 +566,15 @@
 
 **Students**
 
-<<<<<<< HEAD
 - new Student
 - Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
-=======
+- Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
+- Tahreer Alenezi-@Tahreer90-tahreer.90z@gmail.com
+- Mohammad Alansari @mkalansari7 mk.alansari7@gmail.com
+- Abdullah AlKhareji - @abdullah-alkhareji - aalkhareji27@gmail.com
+- Ahmad Albaqsami - @atinzad - ahmad_baq@hotmail.com
 - Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
+- Abdullah alrashed @abdullah
 
-
->>>>>>> master
