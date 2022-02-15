@@ -566,6 +566,8 @@
 
 **Students**
 
+- new Student
+- Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
 - Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
 - Tahreer Alenezi-@Tahreer90-tahreer.90z@gmail.com
 - Mohammad Alansari @mkalansari7 mk.alansari7@gmail.com
