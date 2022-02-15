@@ -569,10 +569,13 @@
 
 **Students**
 
+<<<<<<< HEAD
+=======
 - new Student
 - AbdulAziz Al-Ghanim - @azizmg98 - azizalghanim98@gmail.com
+>>>>>>> origin/master
 - Anas AlJobbeh - @AnasAlJubah - anas.aljubah@outlook.com
-- Duaa Alkandari - @DuaaAlk - engduaa2013@gmail.com
+- Duaa Alkandari - @DuaaAlk - alkandari.duaa@gmail.com
 - Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
 - Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
 - Tahreer Alenezi - @Tahreer90 - tahreer.90z@gmail.com
