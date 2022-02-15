@@ -562,3 +562,5 @@
 - Batool - @batool - batool@gmail.com
 
 **Students**
+
+- new Student
