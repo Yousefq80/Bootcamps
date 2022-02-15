@@ -23,6 +23,13 @@
 
 **Students:**
 
+
+
+
+
+- # Abdullah alrashed @abdullah
+  > > > > > > > 15a380a81e8df10b39c9dbf0da9bcf1d9e599946
+
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -567,7 +574,7 @@
 
 **Students**
 
-- new Student
+- Duaa Alkandari - @DuaaAlk - engduaa2013@gmail.com
 - Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
 - Mohammed Alqallaf - @macwithaq - maqallaf@gmail.com
 - Tahreer Alenezi - @Tahreer90 - tahreer.90z@gmail.com
