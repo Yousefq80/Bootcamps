@@ -1,5 +1,7 @@
 # Bootcamps
 
+- Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
+
 ## National Fund
 
 **Instructors:**
@@ -21,6 +23,7 @@
 
 **Students:**
 
+- Abdullah alrashed @abdullah
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -561,8 +564,11 @@
 - Salwa Baqer - @SalwaBaqer - salwa@joincoded.com
 - Omar Alibrahim - @omsi96 - omar@barmej.com
 - Batool - @batool - batool@gmail.com
+- Fatima AlMomen - @fatemah-alm - fatemah.alm@hotmail.com
 
 **Students**
 
-- new Student
 - Duaa Alkandari - DuaaAlk - engduaa2013@gmail.com
+- Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
+- Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
+- Ali Ahmad - @engxli - baaa555@outlook.com
