@@ -567,6 +567,7 @@
 
 **Students**
 
+- Abdullah AlKhareji - @abdullah-alkhareji - aalkhareji27@gmail.com
 - Ahmad Albaqsami - @atinzad - ahmad_baq@hotmail.com
 - Amal Al-Mutairi - @AmalAlmutair asmutairi86@gmail.com
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
