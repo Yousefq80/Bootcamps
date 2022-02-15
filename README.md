@@ -21,10 +21,6 @@
 
 **Students:**
 
-<<<<<<< HEAD
-
-- # Abdullah alrashed @abdullah
-  > > > > > > > origin/master
 - Hamad Kamshad @DesertDemons
 - Yahya Qasem @ynqasem y.n.qasem@gmail.com
 - Mohammad Ashkanani @M3ashkanani
@@ -569,11 +565,8 @@
 
 **Students**
 
-<<<<<<< HEAD
-=======
-- new Student
+- Abdullah alrashed @abdullah
 - AbdulAziz Al-Ghanim - @azizmg98 - azizalghanim98@gmail.com
->>>>>>> origin/master
 - Anas AlJobbeh - @AnasAlJubah - anas.aljubah@outlook.com
 - Duaa Alkandari - @DuaaAlk - alkandari.duaa@gmail.com
 - Fahad Alajmi - @Fahadalajmii - fahadalajmi127@gmail.com
