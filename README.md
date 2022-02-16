@@ -420,6 +420,9 @@
 **Instructors**
 
 - Abdulghaphor Hajjieh @abdulghaphor ghaphorhajjieh@gmail.com
+- Hasan Al-Tabtabai @theHasanas hasan@joincoded.com
+- Fawaz Almutairi @smokeme fawaz@joincoded.com
+- Salwa Baqer @SalwaBaqer salwa@joincoded.com
 
 **Students**
 
@@ -579,6 +582,5 @@
 - Aisha Al-Sharhan - @alsharhanaisha - alsharhanaisha@gmail.com
 - Ali Ahmad - @engxli - baaa555@outlook.com
 - Saad Alkandari - @SaadAlkandari - mr.s.alkandari@gmail.com
-- Abdullah alrashed @abdullah
 - Hadeel @hadeelAlsheraifi ehadeeel@gmail.com
 - Hassan Mohammed - @HassanMohammed98 - hassan-n98@hotmail.com
