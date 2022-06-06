@@ -524,7 +524,7 @@
 - Sayed Hasan Alhussaini @dinok1d hassandak1d@hotmail.com
 - Hussain AlHadad @HussainQH hussainqh@gmail.com
 - Amnah AL-Duhaileb @amnah5 amooon_96@hotmail.com
-  -Abdullah Al Adwani @abdullahmmaladwani@gmail.com
+- Abdullah Al Adwani @abdullahmmaladwani@gmail.com
 - Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
 - Shahad Al Mashan @salmashaan smalmashaan@gmail.com
 - Abdallah Alkhaldi @alkhaldi3jk alkhaldi3jk@gmail.com
@@ -591,5 +591,6 @@
 
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com 🧊
 - Rahaf Alenezi @ralenezi rahaf@code.kw 🔮
+- Taiba AlThunayan @Talthunayan Talthunayan@outlook.com 🍊
 
 **Students**
