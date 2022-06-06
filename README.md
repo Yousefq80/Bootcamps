@@ -593,3 +593,5 @@
 - Rahaf Alenezi @ralenezi rahaf@code.kw 🔮
 
 **Students**
+
+- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com 
