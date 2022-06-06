@@ -602,3 +602,4 @@
 - Hessa AlRahmani @HessaAlRahmani h.m.alrahmani@gmail.com ⚠️
 - Danah Alajmi @danahAlajmi danah38x@gmail.com 🌸
 - Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
+- Abdullah Almutairi @0xglk 🎩
