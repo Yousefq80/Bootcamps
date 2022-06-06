@@ -590,5 +590,6 @@
 **Instructors**
 
 - Salwa Baqer @SalwaBaqer salwa@joincoded.com 🧊
+- Rahaf Alenezi @ralenezi rahaf@code.kw 🔮
 
 **Students**
