@@ -595,5 +595,10 @@
 
 **Students**
 
+<<<<<<< HEAD
 - Ali Akbar @ADesole Ali.A.Akbar98@gmail.com 🐞
 - Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com
+=======
+- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com 
+- Aadel Alqaabi @aadelalqaabi adelalqaapi1998@gmail.com ✨
+>>>>>>> c05bbd05987895a919f6e2d8fb045a48fb1cce0b
