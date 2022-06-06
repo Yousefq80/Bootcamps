@@ -589,4 +589,6 @@
 
 **Instructors**
 
+- Rahaf Alenezi - @ralenezi rahaf@code.kw
+
 **Students**
