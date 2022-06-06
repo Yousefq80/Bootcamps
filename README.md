@@ -589,4 +589,6 @@
 
 **Instructors**
 
+- Salwa Baqer @SalwaBaqer salwa@joincoded.com 🧊
+
 **Students**
