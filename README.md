@@ -596,3 +596,4 @@
 **Students**
 
 - Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com 
+- Aadel Alqaabi @aadelalqaabi adelalqaapi1998@gmail.com ✨
