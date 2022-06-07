@@ -597,11 +597,12 @@
 
 - Ali Akbar @ADesole Ali.A.Akbar98@gmail.com 🐞
 - Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com
-- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com 
+- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com
 - Aadel Alqaabi @aadelalqaabi adelalqaapi1998@gmail.com ✨
 - Hessa AlRahmani @HessaAlRahmani h.m.alrahmani@gmail.com ⚠️
 - Danah Alajmi @danahAlajmi danah38x@gmail.com 🌸
 - Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
 - Abdullah Almutairi @0xglk 🎩
 - Doha Almusallam @dohaisalive dohaisalive@gmail.com 🤡
+- Ahmad AlAmiri @ironik96 a.alamiri.96@gmail.com 🐳
 - Rawan Almusallam @RawanRM r_a_msmlm@outlook.com 🍕
