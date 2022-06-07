@@ -603,4 +603,4 @@
 - Danah Alajmi @danahAlajmi danah38x@gmail.com 🌸
 - Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
 - Abdullah Almutairi @0xglk 🎩
-- Bodour Alrashidi @bodouralrashidi bodouralrashidi@gmail.com
+- Bodour Alrashidi @bodouralrashidi bodouralrashidi@gmail.com 🌘
