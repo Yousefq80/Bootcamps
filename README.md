@@ -607,3 +607,4 @@
 - Ahmad AlAmiri @ironik96 a.alamiri.96@gmail.com 🐳
 - Rawan Almusallam @RawanRM r_a_msmlm@outlook.com 🍕
 - Rashed Altarmoom @rashedaltarmooom rashed.al6armoom@gmail.com 🐳
+- Dalal Aljassem @dalalaljassem dalal.aljassem@gmail.com 🍉
