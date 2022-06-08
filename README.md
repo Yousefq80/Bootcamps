@@ -608,3 +608,4 @@
 - Rawan Almusallam @RawanRM r_a_msmlm@outlook.com 🍕
 - Rashed Altarmoom @rashedaltarmooom rashed.al6armoom@gmail.com 🐳
 - Dalal Aljassem @dalalaljassem dalal.aljassem@gmail.com 🍉
+- Abdullah Al-sharqawi @Sharq99 aasharq99@gmail.com 🦈 
