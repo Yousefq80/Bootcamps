@@ -603,6 +603,7 @@
 - Danah Alajmi @danahAlajmi danah38x@gmail.com 🌸
 - Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
 - Abdullah Almutairi @0xglk 🎩
+- Bodour Alrashidi @bodouralrashidi bodouralrashidi@gmail.com 🌘
 - Doha Almusallam @dohaisalive dohaisalive@gmail.com 🤡
 - Ahmad AlAmiri @ironik96 a.alamiri.96@gmail.com 🐳
 - Rawan Almusallam @RawanRM r_a_msmlm@outlook.com 🍕
