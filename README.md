@@ -623,11 +623,9 @@
 - Ameera Alotaibi
 
 **Students**
-
-
-
+- Ahmed Almuhanna @Ahmed.almuhanna
 - Abdulaziz Al-Marzouq @azizalmarzouq
--Mansour Alhussain @Mansour_alh Mansouralhussain94@gmail.com
+- Mansour Alhussain @Mansour_alh Mansouralhussain94@gmail.com
 - Suliman Almamari
 - Ahmad Aboukhamseen
 - Heba Alenzi @heba-alenzi
