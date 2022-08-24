@@ -617,4 +617,6 @@ Shereen AbdelQader @Shereengh
 Yousef Al-Kandari @Alkandari-Y
 Ghalyah Al-Ansari @GhalyahFA
 
+- Laila Al-Kandery @lailz laila.a@joincoded.com
+
 **Students**
