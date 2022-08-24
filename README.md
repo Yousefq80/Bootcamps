@@ -621,9 +621,8 @@
 - Zainab AlBaqsami
 - Khaled AlHendi
 
-
-
 **Students**
+
 - Ahmed Almuhanna @Ahmed.almuhanna
 - Abdulaziz Al-Marzouq @azizalmarzouq
 - Mansour Alhussain @Mansour_alh Mansouralhussain94@gmail.com
@@ -633,4 +632,5 @@
 - Ahmad Aboukhamseen
 - Heba Alenzi @heba-alenzi
 - Majed Alramadan
--Fahad AlObaid @fahadalobaid fahad.n.b.alobaid@gmail.com 🦈
+- Fahad AlObaid @fahadalobaid fahad.n.b.alobaid@gmail.com 🦈
+- Omar Khalifouh
