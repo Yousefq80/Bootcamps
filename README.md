@@ -610,9 +610,9 @@
 - Dalal Aljassem @dalalaljassem dalal.aljassem@gmail.com 🍉
 - Abdullah Al-sharqawi @Sharq99 aasharq99@gmail.com 🦈
 
-## Full-Stack Summer Bootcamp 2022 🌞
+## Full-Stack (Django-Flutter) Summer Bootcamp 2022 🌞
 
-**Instructors\*\*\***77
+**Instructors**
 
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
