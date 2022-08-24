@@ -620,13 +620,16 @@
 - Laila Al-Kandery @lailz laila.a@joincoded.com
 - Zainab AlBaqsami
 - Khaled AlHendi
-- Ameera Alotaibi
+
+
 
 **Students**
 - Ahmed Almuhanna @Ahmed.almuhanna
 - Abdulaziz Al-Marzouq @azizalmarzouq
 - Mansour Alhussain @Mansour_alh Mansouralhussain94@gmail.com
 - Suliman Almamari
+- Ahmad Hajeyah @AhmedHajeyah
+- Ameera Alotaibi
 - Ahmad Aboukhamseen
 - Heba Alenzi @heba-alenzi
 - Majed Alramadan
