@@ -614,4 +614,6 @@
 
 **Instructors**
 
+- Laila AlKandery @lailz laila.a@joincoded.com
+
 **Students**
