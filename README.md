@@ -613,5 +613,8 @@
 ## Full-Stack Summer Bootcamp 2022 🌞
 
 **Instructors**
+Shereen AbdelQader @Shereengh
+Yousef Al-Kandari @Alkandari-Y
+Ghalyah Al-Ansari @GhalyahFA
 
 **Students**
