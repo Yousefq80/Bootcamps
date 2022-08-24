@@ -597,10 +597,41 @@
 
 - Ali Akbar @ADesole Ali.A.Akbar98@gmail.com 🐞
 - Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com
-- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com 
+- Mohammad Almajdi @msdalmajdi msdalmajdi@hotmail.com
 - Aadel Alqaabi @aadelalqaabi adelalqaapi1998@gmail.com ✨
 - Hessa AlRahmani @HessaAlRahmani h.m.alrahmani@gmail.com ⚠️
 - Danah Alajmi @danahAlajmi danah38x@gmail.com 🌸
 - Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
 - Abdullah Almutairi @0xglk 🎩
 - Bodour Alrashidi @bodouralrashidi bodouralrashidi@gmail.com 🌘
+- Doha Almusallam @dohaisalive dohaisalive@gmail.com 🤡
+- Ahmad AlAmiri @ironik96 a.alamiri.96@gmail.com 🐳
+- Rawan Almusallam @RawanRM r_a_msmlm@outlook.com 🍕
+- Rashed Altarmoom @rashedaltarmooom rashed.al6armoom@gmail.com 🐳
+- Dalal Aljassem @dalalaljassem dalal.aljassem@gmail.com 🍉
+- Abdullah Al-sharqawi @Sharq99 aasharq99@gmail.com 🦈
+
+## Full-Stack (Django-Flutter) Summer Bootcamp 2022 🌞
+
+**Instructors**
+
+- Shereen AbdelQader @Shereengh
+- Yousef Al-Kandari @Alkandari-Y
+- Ghalyah Al-Ansari @GhalyahFA
+- Laila Al-Kandery @lailz laila.a@joincoded.com
+- Zainab AlBaqsami
+- Khaled AlHendi
+
+**Students**
+
+- Ahmed Almuhanna @Ahmed.almuhanna
+- Abdulaziz Al-Marzouq @azizalmarzouq
+- Mansour Alhussain @Mansour_alh Mansouralhussain94@gmail.com
+- Suliman Almamari
+- Ahmad Hajeyah @AhmedHajeyah
+- Ameera Alotaibi
+- Ahmad Aboukhamseen
+- Heba Alenzi @heba-alenzi
+- Majed Alramadan
+- Fahad AlObaid @fahadalobaid fahad.n.b.alobaid@gmail.com 🦈
+- Omar Khalifouh
