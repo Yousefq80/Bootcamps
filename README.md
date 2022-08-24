@@ -620,6 +620,7 @@
 - Laila Al-Kandery @lailz laila.a@joincoded.com
 - Zainab AlBaqsami
 - Khaled AlHendi
+- Ameera Alotaibi
 
 **Students**
 - Suliman Almamari
