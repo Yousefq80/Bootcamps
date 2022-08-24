@@ -613,10 +613,12 @@
 ## Full-Stack Summer Bootcamp 2022 🌞
 
 **Instructors**
-Shereen AbdelQader @Shereengh
-Yousef Al-Kandari @Alkandari-Y
-Ghalyah Al-Ansari @GhalyahFA
 
+- Shereen AbdelQader @Shereengh
+- Yousef Al-Kandari @Alkandari-Y
+- Ghalyah Al-Ansari @GhalyahFA
 - Laila Al-Kandery @lailz laila.a@joincoded.com
+- Zainab AlBaqsami
+- Khaled AlHendi
 
 **Students**
