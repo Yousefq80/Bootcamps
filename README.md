@@ -643,6 +643,7 @@
 
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
+- Dhari Alenezi @dmakwt
 
 **Students**
 
