@@ -637,3 +637,11 @@
 - Abdullah Alsharrah @abdullahalsharrah
 - Omar Khalifouh
 
+## Full-Stack (Django-Flutter) Fall Bootcamp 2022 🌞
+
+**Instructors**
+
+- Shereen AbdelQader @Shereengh
+- Yousef Al-Kandari @Alkandari-Y
+
+**Students**
